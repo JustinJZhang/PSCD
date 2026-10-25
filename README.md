@@ -1,10 +1,10 @@
 # PSCL
 
-This is the repository for the paper "Pyramid Self-contrastive Learning for One-shot Test-time Ultrasound Image Denoising". The code and dataset will be publicly available once the paper is accepted for publication.
+This is the repository for the paper "Coherence-Guided Pyramid Self-Contrastive Disentanglement for Ultrasound Imaging via Single-Shot Test-Time Training". The code and dataset will be publicly available once the paper is accepted for publication.
 
 - [ ] **Model**
 - [ ] **Loss Functions**
-- [ ] **Test-time Training** (Inference)
+- [ ] **Test-time Training** and Inference
 - [ ] **Data Preprocessing**
 - [ ] **Environment**
 - [ ] **Dataset**: in vivo images, simulation code
