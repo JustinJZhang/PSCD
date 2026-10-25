@@ -1,4 +1,4 @@
-# PSCL
+# PSCD
 
 This is the repository for the paper "Coherence-Guided Pyramid Self-Contrastive Disentanglement for Ultrasound Imaging via Single-Shot Test-Time Training". The code and dataset will be publicly available once the paper is accepted for publication.
 
